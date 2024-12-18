@@ -1,5 +1,5 @@
-## Olá! Eu sou o Luiz Xavier👋
-
+## Olá! Eu sou o Luiz Xavier  <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />
+![Emoji Animado](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/assets/emoji-animado.gif)
 <div>
   📖 - Graduando em Engenharia de Software no Instituto Federal do Amazonas
   
@@ -20,11 +20,3 @@
   
   
 </div>
-<!--
-**ldiexlive/ldiexlive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
- 📖 - Graduando em Engenharia de Software no Instituto Federal do Amazonas
- 💻 - Estagiando como Desenvolvedor Full Stack no DTI do Comando Geral da Polícia do Amazonas 
-
--->
