@@ -1,5 +1,5 @@
-## Olá! Eu sou o Luiz Xavier  <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />
-![Emoji Animado](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/assets/emoji-animado.gif)
+## Olá! Eu sou o Luiz Xavier  <img src="https://emojis.slackmojis.com/emojis/images/1695790936/69781/4229.gif?1695790936" width="30" />
+
 <div>
   📖 - Graduando em Engenharia de Software no Instituto Federal do Amazonas
   
